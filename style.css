@@ -1,0 +1,27 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.field {
+  border: 1px solid black;
+  width: 80vw;
+  height: 50vh;
+  position: relative;
+  overflow: hidden;
+  margin: 2rem;
+}
+
+.player {
+  background-color: blue;
+  width: 36px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url("/images/mario.png");
+  position: absolute;
+}
+/*# sourceMappingURL=style.css.map */
