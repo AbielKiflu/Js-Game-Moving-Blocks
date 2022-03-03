@@ -1,1 +1,1 @@
-# Js-Game-Moving-Blocks
+# A moving block game
